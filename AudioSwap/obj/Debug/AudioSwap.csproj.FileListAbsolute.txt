@@ -1,0 +1,10 @@
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\bin\Debug\AudioSwap.exe.config
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\bin\Debug\AudioSwap.exe
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\bin\Debug\AudioSwap.pdb
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\obj\Debug\AudioSwap.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\obj\Debug\AudioSwap.Form1.resources
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\obj\Debug\AudioSwap.Properties.Resources.resources
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\obj\Debug\AudioSwap.csproj.GenerateResource.cache
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\obj\Debug\AudioSwap.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\obj\Debug\AudioSwap.exe
+C:\Users\Awire\source\repos\AudioSwap\AudioSwap\obj\Debug\AudioSwap.pdb
